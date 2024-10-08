@@ -29,6 +29,8 @@ public class Lab7 {
 
         }
 
+        myPassword.close();
+
     }
 }
 
